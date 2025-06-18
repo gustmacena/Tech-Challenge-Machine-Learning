@@ -49,7 +49,7 @@ Este repositório contém o desenvolvimento de um modelo preditivo para prever s
 Cada etapa está documentada nos notebooks correspondentes.  
 
 ## Status & Próximos Passos  
-- **Status:** Em desenvolvimento, com acurácia atual próxima de XX% (aumentar para ≥ 75%).  
+- **Status:** Em desenvolvimento, com acurácia atual próxima de 67% (aumentar para ≥ 75%).  
 - **Próximos passos:**  
   - Refinar a engenharia de atributos (ex.: features de volatilidade, momentum de mais janelas).  
   - Explorar modelos de sequência (p.ex. LSTM) para capturar dependências temporais.  
