@@ -1,12 +1,12 @@
 # Tech-Challenge-Machine-Learning
 
 ## Overview  
-Este repositório contém o desenvolvimento de um modelo preditivo para prever se o índice IBOVESPA fechará em alta (↑) ou baixa (↓) no dia seguinte, utilizando dados históricos diários e técnicas de Machine Learning. Ainda estamos em fase de refinamento para atingir a acurácia mínima de 75% exigida no desafio. fileciteturn0file0
+Este repositório contém o desenvolvimento de um modelo preditivo para prever se o índice IBOVESPA fechará em alta (↑) ou baixa (↓) no dia seguinte, utilizando dados históricos diários e técnicas de Machine Learning. Ainda estamos em fase de refinamento para atingir a acurácia mínima de 75% exigida no desafio.
 
 ## Challenge Description  
-- **Problema:** Prever se o fechamento do IBOVESPA no dia seguinte será maior ou menor que o do dia atual. fileciteturn0file0  
-- **Dados:** Séries históricas diárias do IBOVESPA obtidas em formato CSV, cobrindo um mínimo de 2 anos de operações. fileciteturn0file0  
-- **Objetivo:** Modelo com acurácia ≥ 75% no conjunto de teste, que deve conter os últimos 30 dias disponíveis. fileciteturn0file0  
+- **Problema:** Prever se o fechamento do IBOVESPA no dia seguinte será maior ou menor que o do dia atual. 
+- **Dados:** Séries históricas diárias do IBOVESPA obtidas em formato CSV, cobrindo um mínimo de 2 anos de operações. 
+- **Objetivo:** Modelo com acurácia ≥ 75% no conjunto de teste, que deve conter os últimos 30 dias disponíveis. 
 
 ## Estrutura do Projeto  
 ```
